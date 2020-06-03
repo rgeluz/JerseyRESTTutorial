@@ -8,17 +8,36 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromCanvas/RESTClientServlet/jersey-all-2.22.2.jar" sourcepath="/Users/geluzfamily/.m2/repository/com/eclipsesource/jaxrs/jersey-all/2.22.2/jersey-all-2.22.2-sources.jar"/>
-	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA3/mysqlconnectorJars/mysql-connector-java-8.0.20/mysql-connector-java-8.0.20.jar"/>
-	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromCanvas/RESTClientServlet/javax.servlet-api-4.0.0.jar"/>
-	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromCanvas/RESTClientServlet/jackson-core-asl-1.9.13.jar"/>
-	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromCanvas/RESTClientServlet/jackson-mapper-asl-1.9.13.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracleAndGithub/FromGithub_inf124grp08_pa4/jersey-all-2.22.2.jar">
 		<attributes>
-			<attribute name="module" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracleAndGithub/jaxb-ri/mod/jaxb-api.jar"/>
-	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracleAndGithub/jaxb-ri/mod/javax.activation-api.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA3/mysqlconnectorJars/mysql-connector-java-8.0.20/mysql-connector-java-8.0.20.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromCanvas/RESTClientServlet/javax.servlet-api-4.0.0.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromCanvas/RESTClientServlet/jackson-core-asl-1.9.13.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromCanvas/RESTClientServlet/jackson-mapper-asl-1.9.13.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Jdk 13">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
