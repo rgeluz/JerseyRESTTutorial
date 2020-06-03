@@ -11,7 +11,7 @@ import javax.ws.rs.core.Response;
 @Path("/products")
 public class ProductResource {
 
-	
+	@Path("id/{id}")
 	@GET
 	@Produces( { MediaType.APPLICATION_JSON } )
 	public Response getProductByID( @PathParam("id") String prouductID ) {
@@ -22,6 +22,7 @@ public class ProductResource {
 		return Response.ok(product).build();
 	}
 	
+	@Path("category/{category}")
 	@GET
 	@Produces( { MediaType.APPLICATION_JSON } )
 	public Response getProductByCategory( @PathParam("category") String category) {

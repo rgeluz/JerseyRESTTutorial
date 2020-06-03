@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Jdk 13">
+	<classpathentry kind="src" output="target/classes" path="src">
 		<attributes>
-			<attribute name="owner.project.facets" value="java"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
@@ -13,5 +13,30 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="output" path="build/classes"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA3/mysqlconnectorJars/mysql-connector-java-8.0.20/mysql-connector-java-8.0.20.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromCanvas/RESTClientServlet/javax.servlet-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromCanvas/RESTClientServlet/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromCanvas/RESTClientServlet/jersey-all-2.22.2.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromCanvas/RESTClientServlet/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Jdk 13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/jaxb-runtime.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/xsom.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/txw2.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/codemodel.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/rngom.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/relaxng-datatype.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/dtd-parser.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/FastInfoset.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/istack-commons-runtime.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/javax.activation-api.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/stax-ex.jar"/>
+	<classpathentry kind="lib" path="/Users/geluzfamily/Documents/Roman/School/School/UCIrvine/_UCI_Schoolwork/6_2020_Spring/INF124_InternetAppEngineering/Projects/PA4/FromOracle/jaxb-ri/mod/istack-commons-tools.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
 </classpath>
